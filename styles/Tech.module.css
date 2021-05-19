@@ -1,0 +1,13 @@
+.img_box{
+        position: relative;
+    }
+.img_box_text {
+    position: absolute;
+    width: 100%;
+    background: rgba(0,0,0,.4);
+    align-items: center;
+    color: white;
+    text-align: center;
+    border-radius: 14px;
+    bottom: 0px;
+    }
